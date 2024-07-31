@@ -1,6 +1,5 @@
-# Breathe-Easy-Your-Hyperlocal-Air-Quality-Watchdog
-Imagine having real-time, hyperlocal air quality information at your fingertips. Breathe Easy leverages the power of NASA's Earthdata API to provide you with up-to-the-minute insights into the air you breathe.
-![Gemini_Generated_Image_twd0qxtwd0qxtwd0](https://github.com/user-attachments/assets/356b1f7d-9f45-49e0-aebf-8822fd8c0810)
+![EarthSat_HD_resize](https://github.com/user-attachments/assets/d0f8d83d-bfa7-45a4-8ef0-034e63f9fd64)
+
 ##### 🛰️📡 Imagine having real-time, hyperlocal air quality information at your fingertips. Breathe Easy leverages the power of NASA's Earthdata API to provide you with up-to-the-minute insights into the air you breathe. Our platform analyzes data from various atmospheric sensors, including AIRS and MLS, to deliver personalized air quality reports and forecasts directly to your smartphone. Whether you're planning a jog, scheduling outdoor activities with your kids, or just want peace of mind, Breathe Easy empowers you to make informed decisions for a healthier life.  🌍
 
 ## 💨 Breathe Easy: Your Hyperlocal Air Quality Watchdog
