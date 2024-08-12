@@ -25,6 +25,7 @@ We built Breathe Easy using a combination of:
 - **JavaScript (React Native):** For developing the cross-platform mobile application.
 - **Data visualization libraries:** To create interactive and informative maps and charts.
 - **Cloud infrastructure:** For hosting and scaling our application.
+- **ISO 14443-3A NXP - Mifare Classic 1k, NfcA, Ndef**
 
 ### 🛰️ Challenges we ran into
 
@@ -35,7 +36,7 @@ We built Breathe Easy using a combination of:
 ### 👽 Accomplishments that we're proud of
 
 - **Successfully integrated and processed complex NASA data:** We overcame the technical hurdles of accessing and analyzing data from multiple sources.
-- **Developed a user-friendly mobile application:** Our intuitive interface makes it easy for anyone to understand and use air quality data.
+- **Integrated with NASA Earth Data Worldview:** Our intuitive interface makes it easy for anyone to understand and use air quality data.
 - **Created a valuable tool for public health:** Breathe Easy empowers individuals to make informed decisions about their exposure to air pollution.
 
 ### 📚What we learned
